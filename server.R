@@ -22,11 +22,11 @@ function(input, output, session) {
   # Reddit Data #######################################################################################################################################  
   
   con <- DBI::dbConnect(odbc::odbc(),
-                        Driver    = "FreeTDS", #"ODBC Driver 17 for SQL Server", 
-                        Server    = "dbsanalytics2021.database.windows.net",
-                        Database  = "db_social_media_2021",
-                        UID       = "suddin",
-                        PWD       = "Friendsnew3",
+                        Driver    = "FreeTDS",
+                        Server    = "******.database.windows.net",
+                        Database  = "******",
+                        UID       = "******",
+                        PWD       = "******",
                         Port      = 1433,
                         TDS_Version = 7.4)
   
