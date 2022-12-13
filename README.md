@@ -10,4 +10,4 @@ Data visualization is shown below:
 
 ![stock_sentiment](https://user-images.githubusercontent.com/37245809/205722603-07150595-5f2a-45ab-87da-e41b34aa9f95.png)
 
-The frontend is developed using R. App is developed in R-shiny and hosted in https://snowflectanalytics.shinyapps.io/socialNet/.
+The frontend is developed using R. App is developed in R-shiny and hosted in https://snowflectanalytics.shinyapps.io/socialNet/. Backend is refreshed using Databricks jobs once everyday. 
